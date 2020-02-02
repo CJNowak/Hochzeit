@@ -73,6 +73,7 @@ h1 {
   font-size: 1.2em;
   min-width: 120px;
 }
+
 .timeline .event:after {
   box-shadow: 0 0 0 4px #156e15;
   left: -57.85px;
